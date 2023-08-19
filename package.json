@@ -1,8 +1,16 @@
 {
-  "dependencies": {
-    "nodemailer": "^6.9.4"
-  },
+  "name": "projetoemailjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "node src"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemailer": "^6.9.4"
   }
 }
